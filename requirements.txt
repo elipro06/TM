@@ -1,7 +1,6 @@
-keras
 streamlit
-# streamlit-webrtc  ← Comentado si no es indispensable
 numpy
 opencv-python-headless
 Pillow
+keras
 tensorflow-cpu==2.11.0
